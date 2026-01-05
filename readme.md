@@ -112,3 +112,4 @@ sleep 2
 cd api-gateway && npm run dev &
 
 wait
+
